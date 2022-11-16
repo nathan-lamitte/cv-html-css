@@ -1,0 +1,53 @@
+body {
+    background-color: #000000ea;
+}
+
+
+
+h1 {
+    color:aliceblue;
+    font-family: sans-serif;
+    text-align: center;
+    text-shadow: 5px 3px 10px #eeebeb60;
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+h2 {
+    font-size: 2rem;
+    text-shadow: 5px 3px 10px #eeebeb60;
+    color: white;
+    text-align: center;
+}
+h3 {
+    font-size: 2rem;
+    text-align: center;
+    text-shadow: 5px 3px 10px #eeebeb60;
+}
+.toptitle {
+    font-family: sans-serif;
+    text-align: center;
+    color: aliceblue;
+    background-color: rgba(55, 0, 255, 0.26);
+    border: 2px solid black;
+    border-radius: 10px;
+}
+main { 
+    background-color: rgba(55, 0, 255, 0.26);
+    border: 4px solid black;
+    border-radius: 10px;
+    margin-top: 40px;
+    padding: 10px;
+    overflow: hidden;
+    color: aliceblue;
+    font-family: sans-serif;
+
+}
+#qualite {
+    text-align: center;
+    font-size: 2rem;
+}
+
+#hobby {
+    text-align: center;
+    font-size: 2rem;
+}
